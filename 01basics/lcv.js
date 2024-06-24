@@ -16,3 +16,4 @@ console.table([accountId,accountEmail,accountPass,accountCity])
 scope is{} var use krne se sara data hr jgh update ho jaega*/
 
 console.log(accountState)
+//jb hm koi value assign nhi krege to vo undefined show krega output me//
