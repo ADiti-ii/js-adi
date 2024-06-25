@@ -11,5 +11,5 @@
 7.symbol- defines uniqueness
 */
 
-console.log(typeof null);
-console.log(typeof undefined);
+console.log(typeof null);// null ek object type show krega jo kimjs me ek error h
+console.log(typeof undefined);// ye undefined datatype hi show krega
